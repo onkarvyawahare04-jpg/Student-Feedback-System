@@ -7,6 +7,8 @@ A robust, web-based Student Feedback System designed to collect, analyze, and ma
 ![DB: MySQL](https://img.shields.io/badge/DB-MySQL-orange?style=flat-square)
 
 > **🚀 Live Demo:** [http://mgm-feedback.rf.gd/student_login.php](http://mgm-feedback.rf.gd/student_login.php)
+>
+> ⚠️ **Note:** As this demo is hosted on free shared hosting (`.rf.gd`), some browsers (especially mobile) may incorrectly flag the domain as "Dangerous". This is a known false positive due to the hosting provider's shared reputation and does not reflect the safety of this project's code.
 
 ![Login Page Preview](login_preview.png)
 
